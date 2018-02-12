@@ -1,4 +1,4 @@
-package com.kp.landingzone.logparser
+package com.kp.landingzone.spark
 
 import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
